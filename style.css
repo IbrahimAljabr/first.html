@@ -1,0 +1,37 @@
+* {
+    text-decoration: none;
+    color: #121212;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    color: #121212;
+    margin-left: 20px;
+    
+}
+body{
+    background-color: #eee6e6;
+}
+
+p{
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+}
+img{
+    position: relative;
+    left: 14%;
+    width: 65%;
+}
+section ul li{
+   padding: 10px;
+   border: lightcyan;
+   border-style: solid;
+   background-color: white;
+   font-size: 20px;
+}
